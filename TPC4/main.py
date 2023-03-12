@@ -5,7 +5,6 @@ import sys
 file = sys.argv[1]
 listJson = []
 fPattern= re.compile(r"(?P<Numero>[^,]+),(?P<Nome>[^,]+),(?P<Curso>[^,]+),?(?P<Notas>[^{,]+)?(?P<Int>\{\d(?:,\d)?\})?(?:::)?(?P<Agreg>[^,]+)?")
-fLine = []
 with open(file,'r') as fileObj:
     dicT = {}
     primeiraLinha = fileObj.readline()[:-1]
@@ -73,4 +72,4 @@ with open(file,'r') as fileObj:
 
 print(listJson)
 with open("data.json", "w") as outfile:
-    json.dump(listJson,outfile,indent=4)
+    json.dump(listJson,outfile,indent=4, ensure_ascii = False)
