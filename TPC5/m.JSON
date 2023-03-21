@@ -1,0 +1,409 @@
+{
+    "Records": [
+        {
+            "MortgageType": "AAA",
+            "FixedRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 1.0,
+                        "CurrentRate": -0.98000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 2.0,
+                        "CurrentRate": 0.02000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.21000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 4.0,
+                        "CurrentRate": 0.03000,
+                        "ChangeSevenDay": -0.09000
+                    },
+                    {
+                        "Duration": 5.0,
+                        "CurrentRate": -0.04000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 6.0,
+                        "CurrentRate": 0.03000,
+                        "ChangeSevenDay": -0.07000
+                    },
+                    {
+                        "Duration": 7.0,
+                        "CurrentRate": 0.03000,
+                        "ChangeSevenDay": -0.45000
+                    },
+                    {
+                        "Duration": 8.0,
+                        "CurrentRate": 0.20000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 9.0,
+                        "CurrentRate": -0.45000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 10.0,
+                        "CurrentRate": 0.10000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 11.0,
+                        "CurrentRate": 0.26000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 12.0,
+                        "CurrentRate": 0.28000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 13.0,
+                        "CurrentRate": 0.90000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 14.0,
+                        "CurrentRate": 0.32000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 15.0,
+                        "CurrentRate": 0.17000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 20.0,
+                        "CurrentRate": 0.55000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 25.0,
+                        "CurrentRate": 2.55000,
+                        "ChangeSevenDay": 0.00000
+                    }
+                ]
+            },
+            "VariableRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.15000,
+                        "ChangeSevenDay": -0.06000
+                    }
+                ]
+            }
+        },
+        {
+            "MortgageType": "AA",
+            "FixedRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 1.0,
+                        "CurrentRate": -0.97000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 2.0,
+                        "CurrentRate": 0.07000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.26000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 4.0,
+                        "CurrentRate": 0.05000,
+                        "ChangeSevenDay": -0.06000
+                    },
+                    {
+                        "Duration": 5.0,
+                        "CurrentRate": 0.05000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 6.0,
+                        "CurrentRate": 0.05000,
+                        "ChangeSevenDay": -0.15000
+                    },
+                    {
+                        "Duration": 7.0,
+                        "CurrentRate": 0.05000,
+                        "ChangeSevenDay": -0.44000
+                    },
+                    {
+                        "Duration": 8.0,
+                        "CurrentRate": 0.19000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 9.0,
+                        "CurrentRate": -0.35000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 10.0,
+                        "CurrentRate": 0.20000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 11.0,
+                        "CurrentRate": 0.25000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 12.0,
+                        "CurrentRate": 0.27000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 13.0,
+                        "CurrentRate": 0.89000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 14.0,
+                        "CurrentRate": 0.31000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 15.0,
+                        "CurrentRate": 0.16000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 20.0,
+                        "CurrentRate": 0.65000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 25.0,
+                        "CurrentRate": 2.65000,
+                        "ChangeSevenDay": 0.00000
+                    }
+                ]
+            },
+            "VariableRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.25000,
+                        "ChangeSevenDay": -0.01000
+                    }
+                ]
+            }
+        },
+        {
+            "MortgageType": "A",
+            "FixedRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 1.0,
+                        "CurrentRate": -0.93000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 2.0,
+                        "CurrentRate": 0.12000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.30000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 4.0,
+                        "CurrentRate": 0.03000,
+                        "ChangeSevenDay": -0.14000
+                    },
+                    {
+                        "Duration": 5.0,
+                        "CurrentRate": 0.03000,
+                        "ChangeSevenDay": -0.10000
+                    },
+                    {
+                        "Duration": 6.0,
+                        "CurrentRate": 0.03000,
+                        "ChangeSevenDay": -0.27000
+                    },
+                    {
+                        "Duration": 7.0,
+                        "CurrentRate": 0.03000,
+                        "ChangeSevenDay": -0.50000
+                    },
+                    {
+                        "Duration": 8.0,
+                        "CurrentRate": 0.25000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 9.0,
+                        "CurrentRate": -0.75000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 10.0,
+                        "CurrentRate": 0.30000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 11.0,
+                        "CurrentRate": 0.31000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 12.0,
+                        "CurrentRate": 0.33000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 13.0,
+                        "CurrentRate": 0.95000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 14.0,
+                        "CurrentRate": 0.37000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 15.0,
+                        "CurrentRate": 0.22000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 20.0,
+                        "CurrentRate": 0.75000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 25.0,
+                        "CurrentRate": 2.75000,
+                        "ChangeSevenDay": 0.00000
+                    }
+                ]
+            },
+            "VariableRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.35000,
+                        "ChangeSevenDay": 0.05000
+                    }
+                ]
+            }
+        },
+        {
+            "MortgageType": "BBB",
+            "FixedRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 1.0,
+                        "CurrentRate": -0.90000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 2.0,
+                        "CurrentRate": 0.12000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.33000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 4.0,
+                        "CurrentRate": 0.21000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 5.0,
+                        "CurrentRate": 0.17000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 6.0,
+                        "CurrentRate": 0.50000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 7.0,
+                        "CurrentRate": 0.56000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 8.0,
+                        "CurrentRate": 0.29000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 9.0,
+                        "CurrentRate": -0.75000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 10.0,
+                        "CurrentRate": 0.50000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 11.0,
+                        "CurrentRate": 0.35000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 12.0,
+                        "CurrentRate": 0.37000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 13.0,
+                        "CurrentRate": 0.99000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 14.0,
+                        "CurrentRate": 0.41000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 15.0,
+                        "CurrentRate": 0.26000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 20.0,
+                        "CurrentRate": 0.95000,
+                        "ChangeSevenDay": 0.00000
+                    },
+                    {
+                        "Duration": 25.0,
+                        "CurrentRate": 2.95000,
+                        "ChangeSevenDay": 0.00000
+                    }
+                ]
+            },
+            "VariableRates": {
+                "DurationRecords": [
+                    {
+                        "Duration": 3.0,
+                        "CurrentRate": 0.35000,
+                        "ChangeSevenDay": 0.02000
+                    }
+                ]
+            }
+        }
+    ],
+    "LanguageTwoLetterCode": 0
+}
